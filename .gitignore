@@ -3,4 +3,5 @@ app.log
 .vscode/        
 node_modules/   
 build/          
-dist/           
+dist/
+.env           
